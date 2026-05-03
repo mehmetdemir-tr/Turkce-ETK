@@ -45,5 +45,8 @@ Projenin `Arduino` klasöründe yer alan kaynak kodlarını **Arduino Leonardo**
 
 > *"Mühendislik, imkansızı standart hale getirmektir."*
 
-## 📜 Lisans
+## Ekran Görüntüleri:
+[Harfler](https://github.com/mehmetdemir-tr/Turkce-ETK/blob/master/screenshots/Turkce-E.jpg)
+
+## Lisans
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
