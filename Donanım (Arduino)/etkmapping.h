@@ -1,0 +1,1 @@
+#define ETK_OHM
